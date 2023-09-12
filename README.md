@@ -2,9 +2,9 @@
 
 Este es un proyecto de Pokédex utilizando HTML, CSS y JavaScript, que consume la API de [PokéAPI](https://pokeapi.co/). La Pokédex es una enciclopedia virtual que muestra información sobre diferentes Pokémon, clasificados por tipos.
 
-img {
-  margin-bottom: 10px; /* Ajusta el valor según tu preferencia */
-}
+<div style="margin-bottom: 10px;">
+  <img src="./img/proyecto.png" alt="Demo del proyecto">
+</div>
 
 
 ## Funcionalidades
